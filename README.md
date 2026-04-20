@@ -20,7 +20,7 @@
 
 | Home Screen | Gameplay | Shop | Leaderboard |
 |:-----------:|:--------:|:----:|:-----------:|
-| ![Home](screenshots/home.png) | ![Gameplay](screenshots/gameplay.png) | ![Shop](screenshots/shop.png) | ![Leaderboard](screenshots/leaderboard.png) |
+| ![Home](screenshots/home.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) | ![Leaderboard](screenshots/leaderboard.png) |
 
 > 💡 Screenshots are in the `/screenshots` folder of this repo.
 
